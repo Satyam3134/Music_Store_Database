@@ -1,1 +1,2 @@
 # Music_Store_Database
+<img width="594" alt="schema_diagram" src="https://github.com/Satyam3134/Music_Store_Database/assets/76655801/aeaed0ec-96f0-47f3-ae9c-8cfc9e563c9f">
